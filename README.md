@@ -1,4 +1,4 @@
-Hi, I’m @CautiousDollop or you can call me Keegan.
+Hi, I’m Keegan.
 <!---
 CautiousDollop/CautiousDollop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
